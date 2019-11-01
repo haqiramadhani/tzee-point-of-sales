@@ -1,0 +1,46 @@
+.Login-box {
+    max-width: 450px;
+}
+
+.Login-root {
+    height: 100vh;
+}
+
+.Register-box {
+    max-width: 450px;
+}
+
+.Register-root {
+    height: 100vh;
+}
+
+.Home-root {
+    height: 100vh;
+}
+
+.POS-root {
+    overflow: hidden;
+    height: calc(100vh);
+    padding: 30px;
+}
+
+.scroll {
+    height: calc(100vh - 240px);
+    overflow-x: hidden;    
+    overflow-y: auto;
+}
+
+.POS-qty {
+    width: 50px;
+}
+
+.Products-root {
+    height: 100vh;
+    padding: 30px;
+}
+
+.Product-add-button {
+    width: 100vw;
+    text-align: left;
+    margin-right: 100px;
+}

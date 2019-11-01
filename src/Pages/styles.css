@@ -1,0 +1,15 @@
+.box {
+    max-width: 450px;
+}
+
+.root {
+    height: 100vh;
+}
+
+.menu-bar {
+    margin-bottom: 150px;
+}
+
+.header {
+    margin-bottom: 40px;
+}
