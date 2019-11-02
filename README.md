@@ -26,3 +26,14 @@ React (also known as React.js or ReactJS) is a JavaScript library for building u
 4. Make a new file, **.env** and setup the file. [instruction here](#setup-env-file)
 5. Start [API](https://github.com/haqiramadhani/pointofsales)
 8. Open browser and hit URL.(i.e. http://localhost:3000/)
+
+## Screenshot
+
+### POS Page
+<img src="https://image.prntscr.com/image/K8CZQ_C0TXq5pgPXXIEAhw.png" alt="satu">
+
+### Product Page
+<img src="https://image.prntscr.com/image/89g3xpwqS8_ik5n28QK21A.png" alt="satu">
+
+### Sales Report
+<img src="https://image.prntscr.com/image/Bh1mJhl6QNWMIr3x2r6Hiw.png" alt="satu">
